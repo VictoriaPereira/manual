@@ -1,2 +1,0 @@
-# manual
-Veja nosso manual!
